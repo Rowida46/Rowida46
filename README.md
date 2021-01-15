@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 [pytorch](https://pytorch.org/) [Python](https://www.python.org/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rowida46)
