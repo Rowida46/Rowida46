@@ -3,14 +3,33 @@
 **Rowida46/Rowida46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[twitter]() [linkedin](https://www.linkedin.com/in/rowida-nagah-30182a135/) [stackoverflow](https://stackoverflow.com/users/14987788/rowida-nagah) [quora](https://www.quora.com/profile/Rowida-Nagah) [hackerrank] (https://www.hackerrank.com/rowida)
+<div align="center">
+
+<a href="https://twitter.com/Rowida60125002">
+  <img align="left" alt="Rowida | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
+</a>
+<a href="https://www.linkedin.com/in/rowida-nagah-30182a135">
+  <img align="left" alt="Rowida's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+</a>
+<a href="https://www.facebook.com/rowida.nagah.545/">
+  <img align="left" alt="Rowida's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
+</a>
+
+<a href="https://github.com/Rowida46">
+  <img align="left" alt="Rowida's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+</a>
+<a href="https://www.hackerrank.com/rowida">
+  <img align="left" alt="Rowida's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
+<a href="https://www.quora.com/profile/Rowida-Nagah">
+  <img align="left" alt="Rowida's oura" width="30px" src="https://www.svgrepo.com/show/25177/quora.svg" draggable="false" />
+</a>
 
 
-[![Twitter Badge](https://img.shields.io/badge/@Rowida-Nagah-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/youssef_guba)
-[![Linkedin Badge](https://img.shields.io/badge/Rowida-Nagah-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowida-nagah-30182a135/)
-[![Facebook Badge](https://img.shields.io/badge/Rowida-Nagah-30302f?style=flat&logo=facebook)](https://www.facebook.com/rowida.nagah.545/)
-[![StackOverflow Badge](https://img.shields.io/badge/Rowida-Nagah-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/14987788/rowida-naga)
+</div>
 
+<br />
+<br />
 
 
 Computer science student passionate about AI , distributed systems & development. More than one year of Python coding experience with object-oriented programming and data structures.
