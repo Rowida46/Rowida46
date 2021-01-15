@@ -1,9 +1,8 @@
 ### Hi there 👋  I'm Rowida 
-<!--
-**Rowida46/Rowida46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!------>
+
 
 <br/>
-
 <div align="center">
 
 <a href="https://twitter.com/Rowida60125002">
