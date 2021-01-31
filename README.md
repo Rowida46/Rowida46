@@ -23,7 +23,7 @@
 
 
 <details>
-  <summary> ##Here are some Details & Some statistics<summary>
+###  <summary> Here are some Details & Some statistics<summary>
 
 
 
