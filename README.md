@@ -25,9 +25,7 @@
 <details>
 <summary> Here are some Details & Some statistics<summary>
   - 🔭 I’m Python developer...
-  
   - 🌱 I’m currently learning Software development & DL ...
-  
   - 📫 How to reach me: [My facebook account](https://www.facebook.com/rowida.nagah.545/)
   - 😄 Pronouns: Dana
   - ⚡ Fun fact: "Bellow the lid of your life is my fav" Qoute 
