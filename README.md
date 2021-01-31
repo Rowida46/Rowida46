@@ -17,7 +17,11 @@
 **Computer science student passionate about AI , distributed systems & development. More than one year of Python coding experience with object-oriented programming and data structures.**
  
  
-Here are some ideas to get you started:
+
+
+<details>
+  <summary> Here are some Details & Some statistics</summary>
+
 
 - 🔭 I’m Python developer...
 - 🌱 I’m currently learning Software development & DL ...
@@ -27,6 +31,7 @@ Here are some ideas to get you started:
 
 
 
+### Statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rowida46)
 
