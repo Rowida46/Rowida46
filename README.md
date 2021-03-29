@@ -42,9 +42,11 @@
 
 
 
-<a href="https://github.com/Rowida46">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowida46&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
-</a>
+
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rowida46&show_icons=true&theme=radical"/> </p>
+<br/>
+
 
 <br/>
 <img align="left" width="26px" alt="Pycharm" src="https://img.icons8.com/windows/32/000000/pycharm.png"/>
