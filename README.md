@@ -36,7 +36,7 @@
 ### Statistics
 
 
-## Most used Tools and Languages
+### Languages and Tools:
 
 <img align="left" width="26px" alt="Pycharm" src="https://img.icons8.com/windows/32/000000/pycharm.png"/>
 <img align="left" width="26px" alt="Django" src="https://img.icons8.com/color/48/000000/django.png"/>
@@ -44,11 +44,12 @@
 <img <img align="left" width="26px" alt="anaconda" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
+<br/>
 
 
 
 <br/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rowida46&show_icons=true&theme=radical"/> </p>
 <br/>
 
