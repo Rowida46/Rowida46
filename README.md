@@ -42,12 +42,11 @@
 
 
 
-<br />
 <a href="https://github.com/Rowida46">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowida46&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowida46&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
 </a>
 
-
+<br/>
 <img align="left" width="26px" alt="Pycharm" src="https://img.icons8.com/windows/32/000000/pycharm.png"/>
 <img align="left" width="26px" alt="Django" src="https://img.icons8.com/color/48/000000/django.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" >
