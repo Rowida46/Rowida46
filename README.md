@@ -38,3 +38,10 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Rowida46)
 
 
+
+
+
+<br />
+<a href="https://github.com/Rowida46">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowida46&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+</a>
